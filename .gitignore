@@ -16,6 +16,8 @@
 # next.js
 /.next/
 /out/
+/api/fetchTest.js
+/api/fetchTest.ts
 
 # production
 /build
